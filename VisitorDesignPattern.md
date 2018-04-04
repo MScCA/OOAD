@@ -16,7 +16,7 @@ _Example 2_ :-
 
 ---  
 _Example 3_ :-  
-![Visitor Pattern 3](https://images0.cnblogs.com/blog/325852/201305/12101923-a29bb958f2d149cfae9f353a21a03ef2.png){:height="36px" width="36px"}.  
+![Visitor Pattern 3](https://images0.cnblogs.com/blog/325852/201305/12101923-a29bb958f2d149cfae9f353a21a03ef2.png?raw=true)  
 
 ***
 1  
