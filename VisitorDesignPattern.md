@@ -13,7 +13,7 @@ _Example 2_ :-
 ---  
 _Example 3_ :-  
 ![Visitor Pattern 3](https://images0.cnblogs.com/blog/325852/201305/12101923-a29bb958f2d149cfae9f353a21a03ef2.png)  
----  
-  
+***
+1  
 ### Code :-  
 <script src="https://gist.github.com/KushalKatta/9163394578a87c81467b5b6d4ea1784d.js"></script>  
