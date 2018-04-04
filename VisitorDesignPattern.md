@@ -4,10 +4,10 @@
 -	Allows you to add methods to classes of different types without much altering to those classes  
 -	You can make completely different methods depending on the class used  
 -	Allows you to define external classes that can extend other classes without majorly editing them  
----  
+***
 _Example 1_ :-  
 ![Visitor Pattern](https://i.stack.imgur.com/PpfGR.png)  
----  
+***  
 _Example 2_ :-  
 ![Visitor Pattern 2](https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Visitor_design_pattern.svg/430px-Visitor_design_pattern.svg.png)  
 ---  
