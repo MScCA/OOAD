@@ -23,7 +23,7 @@
 	-	Interpreter
 	-	Iterator
 	-	Mediator
-	-	Memento
+	-	[Memento](MementoDesignPattern.md)
 	-	Observer
 	-	State
 	-	Template Method
