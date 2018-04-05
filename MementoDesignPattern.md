@@ -8,16 +8,17 @@
 -	Caretaker : Holds an ArrayList that contains all previous versions of the Memento. It can store and retrieve stored Mementos
 
 ***
-_Example 1_ :-
+_Example 1_ :-  
 ![Memento Pattern](http://www.dofactory.com/images/diagrams/net/memento.gif)
 
 ***
-_Example 2_ :-
+_Example 2_ :-  
 ![Memento Pattern 2](https://www.tutorialspoint.com/design_pattern/images/memento_pattern_uml_diagram.jpg)
 
 ***
-_Example 3_ :-
+_Example 3_ :-  
 ![Memento Pattern 3](https://images0.cnblogs.com/blog/325852/201305/12101828-5b64ca7044f94f4b9ed0647f2077894d.png)
+![Memento Pattern 3](/assets/image/Memento3.png)
 
 ***
 ### Code :-
