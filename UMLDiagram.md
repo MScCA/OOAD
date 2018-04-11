@@ -22,6 +22,7 @@
 		-	[Statechart Diagram](#statechart-diagram)
 		-	[Activity Diagram](#activity-diagram)
 	-	[Summary](https://www.tutorialspoint.com/uml/uml_quick_guide.htm)
+
 ***
 ## structural diagrams
 The structural diagrams represent the static aspect of the system. These static aspects represent those parts of a diagram, which forms the main structure and are therefore stable.
@@ -97,6 +98,14 @@ UML has the following five types of behavioral diagrams −
 -	Use case diagrams are a set of use cases, actors, and their relationships. They represent the use case view of a system.
 
 -	A use case represents a particular functionality of a system. Hence, use case diagram is used to describe the relationships among the functionalities and their internal/external controllers. These controllers are known as actors.
+
+-	Relationships
+	-	Association			──
+	-	Uni-Association			⟶
+	-	Include-Relationship		-->
+	-	Extend-Relationship		<--
+	-	Generalization				──▶ 
+-	[Use Case Documentation](UseCaseDocumentation.md)
 
 -	[Read More](https://www.tutorialspoint.com/uml/uml_use_case_diagram.htm)
 
