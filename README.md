@@ -3,7 +3,7 @@
 ## Design Patterns :-
 -	Creational Patterns
 	-	Singleton Pattern
-	-	[Factory Method](FactoryMethodDesignPattern.md)
+	-	[Factory Method](FactoryDesignPattern.md)
 	-	[Abstract Factory](AbstractFactoryDesignPattern.md)
 	-	[Builder](BuilderDesignPattern.md)
 	-	Object Pool
