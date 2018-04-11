@@ -11,7 +11,7 @@
 -	There are two broad categories of diagrams and they are again divided into subcategories −
 
 	-	[Structural Diagram](#Structural-Diagram)
-		-	[Class Diagram](#Class-Diagram)
+		-	[Class Diagram](#class-diagram)
 		-	[Object Diagram](#Object-Diagram)
 		-	[Component Diagram](#Component-Diagram)
 		-	[Deployment Diagram](#Deployment-Diagram)
