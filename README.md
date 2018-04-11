@@ -2,7 +2,7 @@
 ***
 ## Design Patterns :-
 -	Creational Patterns
-	-	[Singleton Pattern](SignletonDesignPattern.md)
+	-	[Singleton Pattern](SingletonDesignPattern.md)
 	-	[Factory Method](FactoryDesignPattern.md)
 	-	[Abstract Factory](AbstractFactoryDesignPattern.md)
 	-	[Builder](BuilderDesignPattern.md)
