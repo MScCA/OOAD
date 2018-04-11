@@ -2,7 +2,7 @@
 ***
 ## Design Patterns :-
 -	Creational Patterns
-	-	Singleton Pattern
+	-	[Singleton Pattern](SignletonDesignPattern.md)
 	-	[Factory Method](FactoryDesignPattern.md)
 	-	[Abstract Factory](AbstractFactoryDesignPattern.md)
 	-	[Builder](BuilderDesignPattern.md)
@@ -24,7 +24,9 @@
 	-	[Iterator](IteratorDesignPattern.md)
 	-	[Mediator](MediatorDesignPattern.md)
 	-	[Memento](MementoDesignPattern.md)
-	-	Observer
+	-	[Observer](ObserverDesignPattern)
 	-	[State](StateDesignPattern.md)
 	-	[Template Method](TemplateDesignPattern.md)
 	-	[Visitor](VisitorDesignPattern.md)
+
+[State vs Strategy Pattern](StateVsStrategy.md)
