@@ -17,7 +17,6 @@ _Example 2_ :-
 
 ***
 _Example 3_ :-  
-![Memento Pattern 3](https://images0.cnblogs.com/blog/325852/201305/12101828-5b64ca7044f94f4b9ed0647f2077894d.png)
 ![Memento Pattern 3](/assets/image/Memento3.png)
 
 ***
