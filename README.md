@@ -22,7 +22,7 @@
 	-	Command
 	-	Interpreter
 	-	Iterator
-	-	Mediator
+	-	[Mediator](MediatorDesignPattern.md)
 	-	[Memento](MementoDesignPattern.md)
 	-	Observer
 	-	State
