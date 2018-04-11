@@ -17,11 +17,11 @@ _Example 2_ :-
 
 ***
 _Example 3_ :-  
-![Prototype Pattern 3](https://images0.cnblogs.com/blog/325852/201305/12101851-1bb53308621c4f1fbe05abcd91edad62.png)
+![Prototype Pattern 3](/assets/image/Prototype3.png)
 
 ***
 _Example 4_ :-  
-![Prototype Pattern 4](https://images0.cnblogs.com/blog/325852/201305/12101859-a1df65d417764f9884ae3de5f6f55854.png)
+![Prototype Pattern 4](/assets/image/Prototype4.png)
 
 ***
 ### Code :-
