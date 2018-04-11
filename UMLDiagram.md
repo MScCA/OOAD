@@ -21,7 +21,7 @@
 		-	[Collaboration Diagram](#collaboration-diagram)
 		-	[Statechart Diagram](#statechart-diagram)
 		-	[Activity Diagram](#activity-diagram)
-
+	-	[Summary](https://www.tutorialspoint.com/uml/uml_quick_guide.htm)
 ***
 ## structural diagrams
 The structural diagrams represent the static aspect of the system. These static aspects represent those parts of a diagram, which forms the main structure and are therefore stable.
@@ -41,6 +41,8 @@ These static parts are represented by classes, interfaces, objects, components, 
 
 -	Class diagram represents the object orientation of a system. Hence, it is generally used for development purpose. This is the most widely used diagram at the time of system construction.
 
+-	[Read More](https://www.tutorialspoint.com/uml/uml_class_diagram.htm)
+
 ***
 ### object diagram
 
@@ -49,6 +51,8 @@ These static parts are represented by classes, interfaces, objects, components, 
 -	Object diagrams are a set of objects and their relationship is just like class diagrams. They also represent the static view of the system.
 
 -	The usage of object diagrams is similar to class diagrams but they are used to build prototype of a system from a practical perspective.
+
+-	[Read More](https://www.tutorialspoint.com/uml/uml_object_diagram.htm)
 
 ***
 ### component diagram
@@ -59,6 +63,8 @@ These static parts are represented by classes, interfaces, objects, components, 
 
 -	Finally, it can be said component diagrams are used to visualize the implementation.
 
+-	[Read More](https://www.tutorialspoint.com/uml/uml_component_diagram.htm)
+
 ***
 ### deployment diagram
 
@@ -67,6 +73,8 @@ These static parts are represented by classes, interfaces, objects, components, 
 -	Deployment diagrams are used for visualizing the deployment view of a system. This is generally used by the deployment team.
 
 -	Note − If the above descriptions and usages are observed carefully then it is very clear that all the diagrams have some relationship with one another. Component diagrams are dependent upon the classes, interfaces, etc. which are part of class/object diagram. Again, the deployment diagram is dependent upon the components, which are used to make component diagrams.
+
+-	[Read More](https://www.tutorialspoint.com/uml/uml_component_diagram.htm)
 
 ***
 ## behavioral diagrams
@@ -90,6 +98,8 @@ UML has the following five types of behavioral diagrams −
 
 -	A use case represents a particular functionality of a system. Hence, use case diagram is used to describe the relationships among the functionalities and their internal/external controllers. These controllers are known as actors.
 
+-	[Read More](https://www.tutorialspoint.com/uml/uml_use_case_diagram.htm)
+
 ***
 ### sequence diagram
 
@@ -98,12 +108,16 @@ UML has the following five types of behavioral diagrams −
 -	Interaction among the components of a system is very important from implementation and execution perspective. Sequence diagram is used to visualize the sequence of calls in a system to perform a specific functionality.
 
 
+-	[Read More](https://www.tutorialspoint.com/uml/uml_interaction_diagram.htm)
+
 ***
 ### collaboration diagram
 
 -	Collaboration diagram is another form of interaction diagram. It represents the structural organization of a system and the messages sent/received. Structural organization consists of objects and links.
 
 -	The purpose of collaboration diagram is similar to sequence diagram. However, the specific purpose of collaboration diagram is to visualize the organization of objects and their interaction.
+
+-	[Read More](https://www.tutorialspoint.com/uml/uml_interaction_diagram.htm)
 
 ***
 ### statechart diagram
@@ -114,6 +128,8 @@ UML has the following five types of behavioral diagrams −
 
 -	State chart diagram is used to visualize the reaction of a system by internal/external factors.
 
+-	[Read More](https://www.tutorialspoint.com/uml/uml_statechart_diagram.htm)
+
 ***
 ### activity diagram
 
@@ -122,3 +138,5 @@ UML has the following five types of behavioral diagrams −
 -	Activities are nothing but the functions of a system. Numbers of activity diagrams are prepared to capture the entire flow in a system.
 
 -	Activity diagrams are used to visualize the flow of controls in a system. This is prepared to have an idea of how the system will work when executed.
+
+-	[Read More](https://www.tutorialspoint.com/uml/uml_activity_diagram.htm)

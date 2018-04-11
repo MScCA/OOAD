@@ -14,7 +14,7 @@
 	-	[Collaboration Diagram](UMLDiagram.md#collaboration-diagram)
 	-	[Statechart Diagram](UMLDiagram.md#statechart-diagram)
 	-	[Activity Diagram](UMLDiagram.md#activity-diagram)
-
+-	[Summary](https://www.tutorialspoint.com/uml/uml_quick_guide.htm)
 ***
 ## Design Patterns :-
 -	Creational Patterns
