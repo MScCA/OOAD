@@ -10,27 +10,27 @@
 
 -	There are two broad categories of diagrams and they are again divided into subcategories −
 
-	-	[Structural Diagram](#Structural-Diagram)
+	-	[Structural Diagram](#structural-diagrams)
 		-	[Class Diagram](#class-diagram)
 		-	[Object Diagram](#object-diagram)
-		-	[Component Diagram](#Component-Diagram)
-		-	[Deployment Diagram](#Deployment-Diagram)
-	-	[Behavioral Diagram](#Behavioral-Diagram)
-		-	[Use Case Diagram](#Use-Case-Diagram)
-		-	[Sequence Diagram](#Sequence-Diagram)
-		-	[Collaboration Diagram](#Collaboration-Diagram)
-		-	[Statechart Diagram](#Statechart-Diagram)
-		-	[Activity Diagram](#Activity-Diagram)
+		-	[Component Diagram](#component-diagram)
+		-	[Deployment Diagram](#deployment-diagram)
+	-	[Behavioral Diagram](#behavioral-diagrams)
+		-	[Use Case Diagram](#use-case-diagram)
+		-	[Sequence Diagram](#sequence-diagram)
+		-	[Collaboration Diagram](#collaboration-diagram)
+		-	[Statechart Diagram](#statechart-diagram)
+		-	[Activity Diagram](#activity-diagram)
 
 ***
-## Structural Diagram
+## structural diagrams
 The structural diagrams represent the static aspect of the system. These static aspects represent those parts of a diagram, which forms the main structure and are therefore stable.
 
 These static parts are represented by classes, interfaces, objects, components, and nodes. The four structural diagrams are −
--	[Class Diagram](#Class-Diagram)
--	[Object Diagram](#Object-Diagram)
--	[Component Diagram](#Component-Diagram)
--	[Deployment Diagram](#Deployment-Diagram)
+-	[Class Diagram](#class-diagram)
+-	[Object Diagram](#object-diagram)
+-	[Component Diagram](#component-diagram)
+-	[Deployment Diagram](#deployment-diagram)
 
 ***
 ### class diagram
@@ -42,7 +42,7 @@ These static parts are represented by classes, interfaces, objects, components, 
 -	Class diagram represents the object orientation of a system. Hence, it is generally used for development purpose. This is the most widely used diagram at the time of system construction.
 
 ***
-### Object-Diagram
+### object diagram
 
 -	Object diagrams can be described as an instance of class diagram. Thus, these diagrams are more close to real-life scenarios where we implement a system.
 
@@ -51,7 +51,7 @@ These static parts are represented by classes, interfaces, objects, components, 
 -	The usage of object diagrams is similar to class diagrams but they are used to build prototype of a system from a practical perspective.
 
 ***
-### Component Diagram
+### component diagram
 
 -	Component diagrams represent a set of components and their relationships. These components consist of classes, interfaces, or collaborations. Component diagrams represent the implementation view of a system.
 
@@ -60,7 +60,7 @@ These static parts are represented by classes, interfaces, objects, components, 
 -	Finally, it can be said component diagrams are used to visualize the implementation.
 
 ***
-### Deployment Diagram
+### deployment diagram
 
 -	Deployment diagrams are a set of nodes and their relationships. These nodes are physical entities where the components are deployed.
 
@@ -69,7 +69,7 @@ These static parts are represented by classes, interfaces, objects, components, 
 -	Note − If the above descriptions and usages are observed carefully then it is very clear that all the diagrams have some relationship with one another. Component diagrams are dependent upon the classes, interfaces, etc. which are part of class/object diagram. Again, the deployment diagram is dependent upon the components, which are used to make component diagrams.
 
 ***
-## Behavioral Diagrams
+## behavioral diagrams
 
 Any system can have two aspects, static and dynamic. So, a model is considered as complete when both the aspects are fully covered.
 
@@ -77,21 +77,21 @@ Behavioral diagrams basically capture the dynamic aspect of a system. Dynamic as
 
 UML has the following five types of behavioral diagrams −
 
--	[Use Case Diagram](#Use-Case-Diagram)
--	[Sequence Diagram](#Sequence-Diagram)
--	[Collaboration Diagram](#Collaboration-Diagram)
--	[Statechart Diagram](#Statechart-Diagram)
--	[Activity Diagram](#Activity-Diagram)
+-	[Use Case Diagram](#use-case-diagram)
+-	[Sequence Diagram](#sequence-diagram)
+-	[Collaboration Diagram](#collaboration-diagram)
+-	[Statechart Diagram](#statechart-diagram)
+-	[Activity Diagram](#activity-diagram)
 
 ***
-### Use Case Diagram
+### use case diagram
 
 -	Use case diagrams are a set of use cases, actors, and their relationships. They represent the use case view of a system.
 
 -	A use case represents a particular functionality of a system. Hence, use case diagram is used to describe the relationships among the functionalities and their internal/external controllers. These controllers are known as actors.
 
 ***
-### Sequence Diagram
+### sequence diagram
 
 -	A sequence diagram is an interaction diagram. From the name, it is clear that the diagram deals with some sequences, which are the sequence of messages flowing from one object to another.
 
@@ -99,14 +99,14 @@ UML has the following five types of behavioral diagrams −
 
 
 ***
-### Collaboration Diagram
+### collaboration diagram
 
 -	Collaboration diagram is another form of interaction diagram. It represents the structural organization of a system and the messages sent/received. Structural organization consists of objects and links.
 
 -	The purpose of collaboration diagram is similar to sequence diagram. However, the specific purpose of collaboration diagram is to visualize the organization of objects and their interaction.
 
 ***
-### Statechart Diagram
+### statechart diagram
 
 -	Any real-time system is expected to be reacted by some kind of internal/external events. These events are responsible for state change of the system.
 
@@ -115,7 +115,7 @@ UML has the following five types of behavioral diagrams −
 -	State chart diagram is used to visualize the reaction of a system by internal/external factors.
 
 ***
-### Activity Diagram
+### activity diagram
 
 -	Activity diagram describes the flow of control in a system. It consists of activities and links. The flow can be sequential, concurrent, or branched.
 

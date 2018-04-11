@@ -3,17 +3,18 @@
 ***
 ## UML Diagram
 -	[Introduction](UMLDiagram.md)
--	[Structural Diagram](UMLDiagram.md#Structural-Diagram)
-	-	[Class Diagram](UMLDiagram.md#Class-Diagram)
-	-	[Object Diagram](UMLDiagram.md#Object-Diagram)
-	-	[Component Diagram](UMLDiagram.md#Component-Diagram)
-	-	[Deployment Diagram](UMLDiagram.md#Deployment-Diagram)
--	[Behavioral Diagram](UMLDiagram.md#Behavioral-Diagram)
-	-	[Use Case Diagram](UMLDiagram.md#Use-Case-Diagram)
-	-	[Sequence Diagram](UMLDiagram.md#Sequence-Diagram)
-	-	[Collaboration Diagram](UMLDiagram.md#Collaboration-Diagram)
-	-	[Statechart Diagram](UMLDiagram.md#Statechart-Diagram)
-	-	[Activity Diagram](UMLDiagram.md#Activity-Diagram)
+-	[Structural Diagram](UMLDiagram.md#structural-diagrams)
+	-	[Class Diagram](UMLDiagram.md#class-diagram)
+	-	[Object Diagram](UMLDiagram.md#object-diagram)
+	-	[Component Diagram](UMLDiagram.md#component-diagram)
+	-	[Deployment Diagram](UMLDiagram.md#deployment-diagram)
+-	[Behavioral Diagram](UMLDiagram.md#behavioral-diagrams)
+	-	[Use Case Diagram](UMLDiagram.md#use-case-diagram)
+	-	[Sequence Diagram](UMLDiagram.md#sequence-diagram)
+	-	[Collaboration Diagram](UMLDiagram.md#collaboration-diagram)
+	-	[Statechart Diagram](UMLDiagram.md#statechart-diagram)
+	-	[Activity Diagram](UMLDiagram.md#activity-diagram)
+
 ***
 ## Design Patterns :-
 -	Creational Patterns
