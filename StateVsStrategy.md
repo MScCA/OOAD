@@ -1,0 +1,5 @@
+# State Pattern VS. Strategy Pattern
+
+-	with the state pattern, we have a set of behavior encapsulated in state objects; at any time the  context is delegating to one of those states. Over time, the current state changes across the set of state objects to reflect the internal state of the context, so the context's behavior changes over times as well. 
+The client usually knows very little, if anything, about the state objects.
+-	with strategy, the client usually specifies the strategy object that the context is composed with. Now, while the pattern providers the flexibility to change the strategy object at runtime, often there is a strategy object that is most appropriate for a context object. For instance in the strategy pattern, some of our ducks were configured to fly with typical flying behavior, while others were configured with a fly behavior that kept them grounded.
