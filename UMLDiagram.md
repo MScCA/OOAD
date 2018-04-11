@@ -12,7 +12,7 @@
 
 	-	[Structural Diagram](#Structural-Diagram)
 		-	[Class Diagram](#class-diagram)
-		-	[Object Diagram](#Object-Diagram)
+		-	[Object Diagram](#object-diagram)
 		-	[Component Diagram](#Component-Diagram)
 		-	[Deployment Diagram](#Deployment-Diagram)
 	-	[Behavioral Diagram](#Behavioral-Diagram)
@@ -33,7 +33,7 @@ These static parts are represented by classes, interfaces, objects, components, 
 -	[Deployment Diagram](#Deployment-Diagram)
 
 ***
-### Class Diagram
+### class diagram
 
 -	Class diagrams are the most common diagrams used in UML. Class diagram consists of classes, interfaces, associations, and collaboration. Class diagrams basically represent the object-oriented view of a system, which is static in nature.
 
@@ -42,7 +42,7 @@ These static parts are represented by classes, interfaces, objects, components, 
 -	Class diagram represents the object orientation of a system. Hence, it is generally used for development purpose. This is the most widely used diagram at the time of system construction.
 
 ***
-### Object Diagram
+### Object-Diagram
 
 -	Object diagrams can be described as an instance of class diagram. Thus, these diagrams are more close to real-life scenarios where we implement a system.
 
