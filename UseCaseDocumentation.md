@@ -2,10 +2,10 @@
 
 ***
 ```
-Use-Case ID			: UC01
-Use-Case Name	: Login
+Use-Case ID		: UC01
+Use-Case Name		: Login
 Pre-Condition		: User must be registered already
-Actors					: Customers
+Actors		: Customers
 Flow of Events		: (All goes well scenario)
 	1)	User enters user name
 	2)	User enter password
